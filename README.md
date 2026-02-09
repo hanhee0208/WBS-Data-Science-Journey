@@ -3,7 +3,7 @@
 This repository is a dedicated space for my daily progress, exercises, and notes as I transition into the field of Data Science at WBS Coding School.
 
 ## 📅 Timeline
-* **Duration:** [Start Date] – Present
+* **Duration:** 20.01.2026 – Present
 * **Location:** Remote / Germany
 
 ## 🎯 Learning Objectives
